@@ -32,7 +32,6 @@ Built by JONAS SCHMEDTMANN for his online course ADVANCED CSS AND SASS. Copyrigh
 - The stunning images used in this landing page are sourced from Unsplash (https://unsplash.com).
 - The font used is provided by Google Fonts (https://fonts.google.com).
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+## Link
+(https://aistushar.github.io/Touring-website-landing-page/)
 
